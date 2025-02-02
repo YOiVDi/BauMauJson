@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Royal Canin",
+        "picture": "https://m.media-amazon.com/images/I/712HAFwPWDL._AC_SL1500_.jpg",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+        "name": "Hill's Science",
+        "picture": "https://gmthompson.net/cdn/shop/products/sd-canine-adult-small-bites-dry-productShot_zoom_500x500.jpg?v=1689787309",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+        "name": "Blue Buffalo",
+        "picture": "https://m.media-amazon.com/images/I/71jQsmvE0pL._AC_SL1500_.jpg",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+        "name": "Ollie",
+        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+        "name": "Iams",
+        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    }
+]
