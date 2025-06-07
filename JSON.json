@@ -1,5 +1,6 @@
 [
     {
+        "id": "Royal-Canin-dog-1",
         "name": "Royal Canin",
         "picture": "https://m.media-amazon.com/images/I/712HAFwPWDL._AC_SL1500_.jpg",
         "price": 10.99,
@@ -8,6 +9,7 @@
         "category": "dog"
     },
     {
+        "id": "Hill's-Science-dog-1",
         "name": "Hill's Science",
         "picture": "https://gmthompson.net/cdn/shop/products/sd-canine-adult-small-bites-dry-productShot_zoom_500x500.jpg?v=1689787309",
         "price": 10.99,
@@ -16,6 +18,7 @@
         "category": "dog"
     },
     {
+        "id": "Blue-Buffalo-dog-1",
         "name": "Blue Buffalo",
         "picture": "https://m.media-amazon.com/images/I/71jQsmvE0pL._AC_SL1500_.jpg",
         "price": 10.99,
@@ -24,6 +27,7 @@
         "category": "dog"
     },
     {
+        "id": "Ollie-dog-1",
         "name": "Ollie",
         "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
         "price": 10.99,
@@ -32,6 +36,7 @@
         "category": "dog"
     },
     {
+        "id": "Iams-dog-1",
         "name": "Iams",
         "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
         "price": 10.99,
