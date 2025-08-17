@@ -2,7 +2,7 @@
     {
         "id": "0d",
         "name": "DOG FOOD F.H ПАТЕШКО МЕСО МОНОПРОТЕИН 10КГ",
-        "picture": "https://m.media-amazon.com/images/I/712HAFwPWDL._AC_SL1500_.jpg",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/0d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -11,7 +11,7 @@
     {
         "id": "1d",
         "name": "DOG FOOD F.H ПУЕШКО МЕСО МОНОПРОТЕИН 10КГ",
-        "picture": "https://gmthompson.net/cdn/shop/products/sd-canine-adult-small-bites-dry-productShot_zoom_500x500.jpg?v=1689787309",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/1d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -20,7 +20,7 @@
     {
         "id": "2d",
         "name": "DOG FOOD F.H РИБА МОНОПРОТЕИН 10КГ",
-        "picture": "https://m.media-amazon.com/images/I/71jQsmvE0pL._AC_SL1500_.jpg",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/2d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -29,7 +29,7 @@
     {
         "id": "3d",
         "name": "DOG FOOD F.H ТЕЛЕШКО МЕСО МОНОПРОТЕИН 10КГ",
-        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/3d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -38,7 +38,7 @@
     {
         "id": "4d",
         "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE MEDIUM 12 КГ.",
-        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/4d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -47,7 +47,7 @@
     {
         "id": "5d",
         "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE MEDIUM 12 КГ.",
-        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/5d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -56,172 +56,172 @@
     {
         "id": "6d",
         "name": "Dog Food ГОВЕЖДО ,СВИНСКО И РИБА PREMIUM GRAIN FREE MAXI 12 КГ",
-        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/6d.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
         "category": "dog"
     },
     {
-            "id": "7d",
-            "name": "ЛЮБИМЕЦ АГНЕШКО И ОРИЗ 10 КГ",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "7d",
+        "name": "ЛЮБИМЕЦ АГНЕШКО И ОРИЗ 10 КГ",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/7d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "8d",
-            "name": "ЛЮБИМЕЦ БЕБЕ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "8d",
+        "name": "ЛЮБИМЕЦ БЕБЕ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/8d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "9d",
-            "name": "ЛЮБИМЕЦ ГОВЕЖДО С ЧЕРЕН ДРОБ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "9d",
+        "name": "ЛЮБИМЕЦ ГОВЕЖДО С ЧЕРЕН ДРОБ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/9d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "10d",
-            "name": "ЛЮБИМЕЦ ЕНЕРГИЯ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "10d",
+        "name": "ЛЮБИМЕЦ ЕНЕРГИЯ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/10d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "11d",
-            "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "11d",
+        "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/11d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "12d",
-            "name": "ЛЮБИМЕЦ МИНИ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "12d",
+        "name": "ЛЮБИМЕЦ МИНИ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/12d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "13d",
-            "name": "ЛЮБИМЕЦ ПИЛЕ С БЕКОН 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "13d",
+        "name": "ЛЮБИМЕЦ ПИЛЕ С БЕКОН 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/13d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "14d",
-            "name": "ЛЮБИМЕЦ ПИЦА 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "14d",
+        "name": "ЛЮБИМЕЦ ПИЦА 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/14d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "15d",
-            "name": "ХИТ АГНЕШКО И ОРИЗ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "15d",
+        "name": "ХИТ АГНЕШКО И ОРИЗ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/15d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "16d",
-            "name": "ХИТ БЕБЕ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "16d",
+        "name": "ХИТ БЕБЕ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/16d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "17d",
-            "name": "ХИТ МАКСИ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "17d",
+        "name": "ХИТ МАКСИ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/17d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
-         "id": "18d",
-            "name": "ХИТ МИНИ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "dog"
+        "id": "18d",
+        "name": "ХИТ МИНИ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/18d.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
         "id": "1c",
-           "name": "ЛЮБИМЕЦ БЕКОН 10 КГ",
-           "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-           "price": 10.99,
-           "isforkg": false,
-           "onpromotion": false,
-           "category": "cat"
-   },
-    {
-         "id": "2c",
-            "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "cat"
+        "name": "ЛЮБИМЕЦ БЕКОН 10 КГ",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/1c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
     },
     {
-         "id": "3c",
-            "name": "ЛЮБИМЕЦ ПИЛЕ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "cat"
+        "id": "2c",
+        "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/2c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
     },
     {
-         "id": "4c",
-            "name": "ЛЮБИМЕЦ ПТИЧИ ДРОБ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "cat"
+        "id": "3c",
+        "name": "ЛЮБИМЕЦ ПИЛЕ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/3c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
     },
     {
-         "id": "5c",
-            "name": "ЛЮБИМЕЦ РИБА 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "cat"
+        "id": "4c",
+        "name": "ЛЮБИМЕЦ ПТИЧИ ДРОБ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/4c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
     },
     {
-         "id": "6c",
-            "name": "ЛЮБИМЕЦ СИРЕНЕ И ЗЕЛЕНЧУЦИ 10 КГ.",
-            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
-            "price": 10.99,
-            "isforkg": false,
-            "onpromotion": false,
-            "category": "cat"
+        "id": "5c",
+        "name": "ЛЮБИМЕЦ РИБА 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/5c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
+    },
+    {
+        "id": "6c",
+        "name": "ЛЮБИМЕЦ СИРЕНЕ И ЗЕЛЕНЧУЦИ 10 КГ.",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/6c.JPG",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
     },
 ]
