@@ -173,7 +173,7 @@
     {
         "id": "1c",
         "name": "ЛЮБИМЕЦ БЕКОН 10 КГ",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/1c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/1c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -182,7 +182,7 @@
     {
         "id": "2c",
         "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/2c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/2c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -191,7 +191,7 @@
     {
         "id": "3c",
         "name": "ЛЮБИМЕЦ ПИЛЕ 10 КГ.",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/3c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/3c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -200,7 +200,7 @@
     {
         "id": "4c",
         "name": "ЛЮБИМЕЦ ПТИЧИ ДРОБ 10 КГ.",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/4c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/4c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -209,7 +209,7 @@
     {
         "id": "5c",
         "name": "ЛЮБИМЕЦ РИБА 10 КГ.",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/5c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/5c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
@@ -218,7 +218,7 @@
     {
         "id": "6c",
         "name": "ЛЮБИМЕЦ СИРЕНЕ И ЗЕЛЕНЧУЦИ 10 КГ.",
-        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/6c.JPG",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/6c.JPG",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
