@@ -1,7 +1,7 @@
 [
     {
-        "id": "Royal-Canin-dog-1",
-        "name": "Royal Canin",
+        "id": "0d",
+        "name": "DOG FOOD F.H ПАТЕШКО МЕСО МОНОПРОТЕИН 10КГ",
         "picture": "https://m.media-amazon.com/images/I/712HAFwPWDL._AC_SL1500_.jpg",
         "price": 10.99,
         "isforkg": false,
@@ -9,8 +9,8 @@
         "category": "dog"
     },
     {
-        "id": "Hill's-Science-dog-1",
-        "name": "Hill's Science",
+        "id": "1d",
+        "name": "DOG FOOD F.H ПУЕШКО МЕСО МОНОПРОТЕИН 10КГ",
         "picture": "https://gmthompson.net/cdn/shop/products/sd-canine-adult-small-bites-dry-productShot_zoom_500x500.jpg?v=1689787309",
         "price": 10.99,
         "isforkg": false,
@@ -18,8 +18,8 @@
         "category": "dog"
     },
     {
-        "id": "Blue-Buffalo-dog-1",
-        "name": "Blue Buffalo",
+        "id": "2d",
+        "name": "DOG FOOD F.H РИБА МОНОПРОТЕИН 10КГ",
         "picture": "https://m.media-amazon.com/images/I/71jQsmvE0pL._AC_SL1500_.jpg",
         "price": 10.99,
         "isforkg": false,
@@ -27,8 +27,8 @@
         "category": "dog"
     },
     {
-        "id": "Ollie-dog-1",
-        "name": "Ollie",
+        "id": "3d",
+        "name": "DOG FOOD F.H ТЕЛЕШКО МЕСО МОНОПРОТЕИН 10КГ",
         "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
         "price": 10.99,
         "isforkg": false,
@@ -36,12 +36,192 @@
         "category": "dog"
     },
     {
-        "id": "Iams-dog-1",
-        "name": "Iams",
+        "id": "4d",
+        "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE MEDIUM 12 КГ.",
         "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
         "price": 10.99,
         "isforkg": false,
         "onpromotion": false,
         "category": "dog"
-    }
+    },
+    {
+        "id": "5d",
+        "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE MEDIUM 12 КГ.",
+        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+        "id": "6d",
+        "name": "Dog Food ГОВЕЖДО ,СВИНСКО И РИБА PREMIUM GRAIN FREE MAXI 12 КГ",
+        "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+        "price": 10.99,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
+    },
+    {
+            "id": "7d",
+            "name": "ЛЮБИМЕЦ АГНЕШКО И ОРИЗ 10 КГ",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "8d",
+            "name": "ЛЮБИМЕЦ БЕБЕ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "9d",
+            "name": "ЛЮБИМЕЦ ГОВЕЖДО С ЧЕРЕН ДРОБ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "10d",
+            "name": "ЛЮБИМЕЦ ЕНЕРГИЯ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "11d",
+            "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "12d",
+            "name": "ЛЮБИМЕЦ МИНИ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "13d",
+            "name": "ЛЮБИМЕЦ ПИЛЕ С БЕКОН 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "14d",
+            "name": "ЛЮБИМЕЦ ПИЦА 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "15d",
+            "name": "ХИТ АГНЕШКО И ОРИЗ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "16d",
+            "name": "ХИТ БЕБЕ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "17d",
+            "name": "ХИТ МАКСИ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+         "id": "18d",
+            "name": "ХИТ МИНИ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "dog"
+    },
+    {
+        "id": "1c",
+           "name": "ЛЮБИМЕЦ БЕКОН 10 КГ",
+           "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+           "price": 10.99,
+           "isforkg": false,
+           "onpromotion": false,
+           "category": "cat"
+   },
+    {
+         "id": "2c",
+            "name": "ЛЮБИМЕЦ МИКС 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "cat"
+    },
+    {
+         "id": "3c",
+            "name": "ЛЮБИМЕЦ ПИЛЕ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "cat"
+    },
+    {
+         "id": "4c",
+            "name": "ЛЮБИМЕЦ ПТИЧИ ДРОБ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "cat"
+    },
+    {
+         "id": "5c",
+            "name": "ЛЮБИМЕЦ РИБА 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "cat"
+    },
+    {
+         "id": "6c",
+            "name": "ЛЮБИМЕЦ СИРЕНЕ И ЗЕЛЕНЧУЦИ 10 КГ.",
+            "picture": "https://a.storyblok.com/f/125940/2000x2000/6361294c12/baked-beef-bag-new-oct23.jpg/m/1920x0",
+            "price": 10.99,
+            "isforkg": false,
+            "onpromotion": false,
+            "category": "cat"
+    },
 ]
