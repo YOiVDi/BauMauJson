@@ -46,7 +46,7 @@
     },
     {
         "id": "5d",
-        "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE MEDIUM 12кг",
+        "name": "Dog Food АГНЕШКО, ПАТЕШКО С КАРТОФИ PREMIUM GRAIN FREE JUNIOR 12кг",
         "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/5d.JPG",
         "price": 96.00,
         "isforkg": false,
@@ -223,6 +223,15 @@
         "isforkg": false,
         "onpromotion": false,
         "category": "dog"
+    },    
+	{
+        "id": "25d",
+        "name": "Hill's Science Plan Canine Small&Mini Adult Chicken 6кг",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-dog/25d.JPG",
+        "price": 125.00,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "dog"
     },
     {
         "id": "1c",
@@ -382,6 +391,15 @@
         "name": "Brit by Natures S Adult 8kg",
         "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/19c.JPG",
         "price": 120.00,
+        "isforkg": false,
+        "onpromotion": false,
+        "category": "cat"
+    },
+    {
+        "id": "20c",
+        "name": "Hill`s Science Plan Feline Light Chicken",
+        "picture": "https://yoivdi.github.io/BauMauJson/Images-cat/20c.JPG",
+        "price": 220.00,
         "isforkg": false,
         "onpromotion": false,
         "category": "cat"
